@@ -7,7 +7,7 @@
 - Computer a USB ports
 
 ### step by step
-1. download the file
+1. download the .Hex file onto your computer
 2. plug in your microbit into your computer
 3. drag and drop the code into the microbit device folder
 4.
